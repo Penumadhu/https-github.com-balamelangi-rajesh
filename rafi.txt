@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi may I know who are you??
+=======
+Hi what's your name??
+>>>>>>> origin/def

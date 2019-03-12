@@ -1,3 +1,8 @@
 Hi what a miracle?
 send me the resume
 find some to the position
+<<<<<<< HEAD
+=======
+Here I added new line.
+Here I added new line in def.
+>>>>>>> origin/def

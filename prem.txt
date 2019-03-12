@@ -1,2 +1,8 @@
 Hi shall i call you??
 where are you??
+<<<<<<< HEAD
+=======
+Here we added new line.
+am here to do this.
+Here added new line in def
+>>>>>>> origin/def
